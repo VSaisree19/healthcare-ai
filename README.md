@@ -25,7 +25,7 @@ The system analyzes patient health data such as age, blood pressure, glucose lev
 | V Saisree | [@VSaisree19](https://github.com/VSaisree19) |
 | V Yoga Sree | - |
 | S Akshaya | - |
-| P Geetha | [@Geetha8247](https://github.com/Geetha8247].|
+| P Geetha |- |
 
 ---
 
