@@ -44,12 +44,10 @@ The system analyzes patient health data such as age, blood pressure, glucose lev
 ## 🖥️ Screenshots
 
 ### Input Form
-> User enters health parameters like Age, Blood Pressure, Glucose, BMI etc.
+![Input Form](screenshot1.png)
 
 ### Prediction Result
-> App shows disease prediction with confidence score and health advice.
-
----
+![Prediction Result](screenshot2.png)
 
 ## 🧠 Machine Learning Details
 
